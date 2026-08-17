@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸ§® Calculator
+# Calculator
 
 **A fully functional calculator with modern UI, keyboard support & all basic operations. Built with HTML, CSS & JavaScript.**
 
@@ -13,13 +13,13 @@
 
 ---
 
-## ðŸ“Œ Topics
+## Topics
 
-`html` `css` `javascript` `calculator` `math-operations` `keyboard-support` `responsive-design` `front-end` `web-development` `vanilla-js` `ui-projects` `web-app` `event-handling` `dom-manipulation`
+`html` `css` `javascript` `calculator` `math-operations` `keyboard-support` `responsive-design` `front-end` `vanilla-js` `web-app`
 
 ---
 
-## ðŸ“– About
+## About
 
 A **feature-rich calculator** with a modern, realistic design. Supports all basic arithmetic operations â€” addition, subtraction, multiplication, division, percentage, and decimal numbers.
 
@@ -27,47 +27,47 @@ Works with both **mouse clicks** and **keyboard input**. Clean display with expr
 
 ---
 
-## âœ¨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| âž• Basic Math | +, -, Ã—, Ã· operations |
-| ðŸ“Š Percentage | % calculation support |
-| ðŸ”¢ Decimals | Floating-point numbers |
-| âŒ¨ï¸ Keyboard | Full keyboard input support |
-| ðŸŽ¨ Modern UI | Realistic calculator design |
-| ðŸ“± Responsive | Works on all devices |
-| âš¡ Instant Result | Real-time calculation |
-| ðŸ›¡ï¸ Error Handling | Division by zero protection |
-| ðŸ—‘ï¸ Clear/Backspace | AC and â† buttons |
-| ðŸ’« Animations | Button press effects |
+| Basic Math | +, -, x, / operations |
+| Percentage | % calculation support |
+| Decimals | Floating-point numbers |
+| Keyboard | Full keyboard input support |
+| Modern UI | Realistic calculator design |
+| Responsive | Works on all devices |
+| Instant Result | Real-time calculation |
+| Error Handling | Division by zero protection |
+| Clear/Backspace | AC and back buttons |
+| Animations | Button press effects |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ```
-HTML5 âžœ Button Grid, Display Layout
-CSS3  âžœ Calculator Design, Grid Layout, Animations
-JS    âžœ Event Listeners, Math Logic, DOM Updates
+HTML5  -->  Button Grid, Display Layout
+CSS3   -->  Calculator Design, Grid Layout, Animations
+JS     -->  Event Listeners, Math Logic, DOM Updates
 ```
 
 ---
 
-## âŒ¨ï¸ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
-| `0-9` | Enter numbers |
-| `+ - * /` | Operators |
-| `Enter` | Calculate result |
-| `Backspace` | Delete last |
-| `Escape` | Clear all |
-| `.` | Decimal point |
+| 0-9 | Enter numbers |
+| + - * / | Operators |
+| Enter | Calculate result |
+| Backspace | Delete last |
+| Escape | Clear all |
+| . | Decimal point |
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/codewithshariqofficial/Calculator.git
@@ -77,7 +77,7 @@ start index.html
 
 ---
 
-## ðŸ“‚ Project Structure
+## Project Structure
 
 ```
 Calculator/
@@ -89,7 +89,7 @@ Calculator/
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
 **Code With Shariq Official**
 
@@ -97,5 +97,3 @@ Calculator/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithshariq1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codewithshariq1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-shariq-shahid.vercel.app/)
-
----
