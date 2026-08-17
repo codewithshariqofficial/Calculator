@@ -21,7 +21,7 @@
 
 ## About
 
-A **feature-rich calculator** with a modern, realistic design. Supports all basic arithmetic operations â€” addition, subtraction, multiplication, division, percentage, and decimal numbers.
+A **feature-rich calculator** with a modern, realistic design. Supports all basic arithmetic operations â€" addition, subtraction, multiplication, division, percentage, and decimal numbers.
 
 Works with both **mouse clicks** and **keyboard input**. Clean display with expression and result views.
 
@@ -81,10 +81,10 @@ start index.html
 
 ```
 Calculator/
-â”œâ”€â”€ index.html      # Button layout
-â”œâ”€â”€ script.js       # Calculator logic
-â”œâ”€â”€ style.css       # Styling
-â””â”€â”€ README.md
+â"œâ"€â"€ index.html      # Button layout
+â"œâ"€â"€ script.js       # Calculator logic
+â"œâ"€â"€ style.css       # Styling
+â""â"€â"€ README.md
 ```
 
 ---
